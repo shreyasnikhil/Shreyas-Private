@@ -1,0 +1,3 @@
+insert into types values(1,'Travel'),(2,'Laundry'),(3,'Food and Water');
+-- insert into requests(TRAVELREQUESTID,REQUESTRAISEDBYEMPLOYEEID,REIMBURSEMENTTYPEID,INVOICENO,INVOICEDATE,INVOICEAMOUNT,DOCUMENTURL) values(1001,76,3,'INV001','2024-02-22',1200,'C:\\Users\\2317239\\Downloads\\sts-4.21.0.RELEASE')
+  
